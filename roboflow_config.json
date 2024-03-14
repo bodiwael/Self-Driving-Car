@@ -1,0 +1,11 @@
+{
+    "__comment1": "Obtain these values via Roboflow",
+    "ROBOFLOW_API_KEY": "iEHkyKXYOOqyliIKFsIV",
+    "ROBOFLOW_MODEL": "traffic-w5zk6/1",
+    "ROBOFLOW_SIZE": 416,
+
+    "__comment2": "The following are only needed for infer-async.py",
+    "FRAMERATE": 24,
+    "BUFFER": 0.5
+
+}
